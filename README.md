@@ -1,5 +1,5 @@
 ![Header](https://github.com/Arthur410/Arthur410/blob/main/Simple%20Technology%20LinkedIn%20Banner.gif)
-<h1 align="center">Hi 👋, I'm Arthur Ivanov</h1>
+<h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A passionate frontend developer from Russia, Saint-Petersburg 🇷🇺</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/YLMjihn.gif">
 
