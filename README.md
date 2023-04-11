@@ -89,9 +89,3 @@
 </p>
 
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur410&theme=synthwave&show_icons=true&locale=en&layout=compact" alt="arthur410" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur410&theme=synthwave&show_icons=true&locale=en" alt="arthur410" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur410&theme=synthwave&" alt="arthur410" /></p>
