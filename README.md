@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 📚 3 years in the field of **Web programming**
+- 📚 4 years in the field of **Web programming**
 
 - 🏛 Student of **St. Petersburg State Electrotechnical Institute** (Software engineering speciality)
 
