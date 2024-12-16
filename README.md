@@ -1,6 +1,6 @@
 ![Header](https://github.com/Arthur410/Arthur410/blob/main/Simple%20Technology%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A passionate frontend developer from Russia, Saint-Petersburg 🇷🇺</h3>
+<h3 align="center">Senior frontend developer from Russia, Saint-Petersburg 🇷🇺</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/YLMjihn.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur410&label=Profile%20views&color=0e75b6&style=flat" alt="arthur410" /> </p>
