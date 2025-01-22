@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur410&label=Profile%20views&color=0e75b6&style=flat" alt="arthur410" /> </p>
 
-- 📚 4 years in the field of **Web programming**
+- 📚 5 years in the field of **Web programming**
 
 - 🏛 Student of **St. Petersburg State Electrotechnical Institute** (Software engineering speciality)
 
