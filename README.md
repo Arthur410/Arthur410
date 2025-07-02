@@ -7,7 +7,7 @@
 
 - 📚 5 years in the field of **Web programming**
 
-- 🏛 Student of **St. Petersburg State Electrotechnical Institute** (Software engineering speciality)
+- 🏛 Graduated **St. Petersburg State Electrotechnical Institute** (Software engineering speciality)
 
 - 📫 You can reach me **arthur.commercial@mail.ru**
 
