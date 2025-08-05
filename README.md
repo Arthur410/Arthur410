@@ -3,8 +3,6 @@
 <h3 align="center">Senior frontend developer from Russia, Saint-Petersburg 🇷🇺</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/YLMjihn.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur410&label=Profile%20views&color=0e75b6&style=flat" alt="arthur410" /> </p>
-
 - 📚 5 years in the field of **Web programming**
 
 - 🏛 Graduated **St. Petersburg State Electrotechnical Institute** (Software engineering speciality)
